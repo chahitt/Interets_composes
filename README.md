@@ -5,5 +5,7 @@ Ce programme comporte 2 fichiers :
   
 Ces programmes sont développés en PYTHON
 
+Le fichier annuites.ods est un fichier de type libre office calc qui présente un calcul mensuel sur 4 ans 
+
 Voici un site sympa qui donne une calculatrice (exprimée en $ mais ce n'est pas trop un problème
      https:://hardbacon.ca/calculatrice-decaissement-pour-la-retaite
